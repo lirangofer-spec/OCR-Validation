@@ -1,7 +1,7 @@
 # OCR-Validation
 ### Run the following in order to install all packages:
 ```
-pip install requirements.txt
+pip3 install requirements.txt
 ```
 
 ### OCR API API Key:
