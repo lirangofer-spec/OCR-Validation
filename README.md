@@ -1,5 +1,5 @@
 # OCR-Validation
-### Run the following in order to isntall all packages:
+### Run the following in order to install all packages:
 ```
 pip install requirements.txt
 ```
